@@ -1,2 +1,2 @@
 # Image-Into-Particles-Akali-League-Of-Legends
-Turn Image Into Particles And The Particles Animations. If You Want To See The Result Of The Code, You Can Come Here https://codepen.io/MahardikaBayu-Code/pen/qBqmXvX
+Turn image into particles and the particles animations. If you want to see the result of the code, you can come here https://codepen.io/MahardikaBayu-Code/pen/qBqmXvX
